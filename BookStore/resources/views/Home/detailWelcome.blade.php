@@ -1,7 +1,6 @@
 <div class="container books">
     <div class="row all_products text-center section_title">
-        <h2 class="text-center">OUR <span>LATEST</span> ADVENTURES</h2>
-        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered lebmid alteration in some ledmid form</p>
+        <h2 class="text-center">Tư Vấn <span>Mới Nhất </span> Của Chúng Tôi </h2>
     </div>
     <div class="row">
         @foreach($books as $book)
@@ -14,7 +13,7 @@
                     <a href="{{ route('add-to-cart',['id' => $book->id]) }}"
                        class="btn btn-success glyphicon glyphicon-shopping-cart book-btn fa-shoopping-cart"
                        role="button">
-                        Add to cart
+                        Thêm Giỏ Hàng
                     </a>
                 </p>
             </div>

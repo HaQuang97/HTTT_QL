@@ -9,36 +9,37 @@
     <div class="container" style="margin-top: 65px">
      <div class="col-md-6">
         <img class="img-responsive" src="{{'images\ourhistoryB.jpg'}}" alt="history" />
-    </div>   
+    </div>
         <div class="col-lg-5">
-        
-            <h3>OUR HISTORY</h3>
 
-            <p align="justify">The first Quality Bookstore opened on Wells Street in Chicago’s Old Town neighborhood in 1963. It was a large, shambling, literary bookstore with creaky wood floors and dust dating back to the early 1950s. The closest thing we had to a computer was a plug-in cash register, pen and paper, and a staff that knew every book in the store by heart.
-            </p>
-       
-            <p align="justify">Now, we’re building on our brand strengths with a vision:</palign="justify">
-            <h2>“To become the company that defines global modern Book Market”</h2>
+            <h3>CỬA HÀNG SÁCH UY TÍN NHẤT TẠI HÀ NỘI</h3>
+
             <p align="justify">
-                Quality Books has earned a reputation in Chicago for high-quality inventory and informed service. We love books. Twice our stores have been named by the Chicago Tribune as one of the 100 best things about the city. The alternative newspaper, Newcity, has recognized Quality Books author event schedule as the best in Chicago.
+                Hiệu sách với nhiều loại sách, đa dạng phong phú về thể loại và nội dung
+            </p>
+
+            <p align="justify">Bây giờ, chúng tôi xây dựng dựa trên thế mạnh thương hiệu của mình với tầm nhìn:</p>
+            <h2>“Trở thành của hàng sách lớn nhất Hà Nội”</h2>
+            <p align="justify">
+                Sách chất lượng đã đạt được danh tiếng ở Quốc gia về chất lượng cao và dịch vụ . Chúng tôi yêu sách. Hai lần cửa hàng của chúng tôi đã được lọt vào top 100 cửa hàng uy tín tại Hà Nội
             </p>
             <br>
             <br>
                 <ul>
                 <li>
-                    <h3 class="title">Get in touch</h3>
+                    <h3 class="title">Liên Hệ :</h3>
                 </li>
                 <li>
-                    <p class="col-lg-3 title">Office :</p>
-                    <p class="col-lg-8">139 Carrington Rd, Mount Albert, Auckland 1025</p>
+                    <p class="col-lg-3 title">Cửa Hàng :</p>
+                    <p class="col-lg-8">Km 10, Đường Nguyễn Trãi, Quận Hà Đông, Thành Phố Hà Nội</p>
                 </li>
                 <li>
-                    <p class="col-lg-3 title">Phone :</p>
-                    <p class="col-lg-8">(64) 021 037 2109</p>
+                    <p class="col-lg-3 title">SĐT :</p>
+                    <p class="col-lg-8">(+84) 123 456 789</p>
                 </li>
                 <li>
                     <p class="col-lg-3 title">Email :</p>
-                    <p class="col-lg-8">support@Qualitybooks.co.nz</p>
+                    <p class="col-lg-8">d16ptit@htttql.com</p>
                 </li>
             </ul>
         </div>
