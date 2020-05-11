@@ -19,10 +19,6 @@ route::get('/', [
     'as' => 'bt.index'
 ]);
 
-//Route::get('/checkout', function () {
-//    return view('Orders.create');
-//})->name('Orders.create');
-
 Route::group(['prefix' => 'Book'], function (){
     Route::get('',[
         'uses' => 'WelcomeController@getIndexDetail',
@@ -34,17 +30,9 @@ Route::group(['prefix' => 'Book'], function (){
     ]);
 });
 
-//Route::get('/carousel', function () {
-//    return view('shared.carousel');
-//});
-
 Route::get('/About', function () {
     return view('Home.about');
 })->name('home.about');
-
-//Route::get('/admin/test', function () {
-//    return view('admin.bookCreate');
-//})->name('bt.adBookIndex');
 
 Route::group(['prefix' => 'checkout'], function(){
     Route::get('create',[
