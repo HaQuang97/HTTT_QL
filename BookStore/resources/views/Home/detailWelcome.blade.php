@@ -1,6 +1,6 @@
 <div class="container books">
     <div class="row all_products text-center section_title">
-        <h2 class="text-center">Tư Vấn <span>Mới Nhất </span> Của Chúng Tôi </h2>
+        <h2 class="text-center">Sách <span>Bán Chạy </span>Nhất</h2>
     </div>
     <div class="row">
         @foreach($books as $book)
